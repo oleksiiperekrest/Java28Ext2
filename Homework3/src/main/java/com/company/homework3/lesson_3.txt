@@ -1,0 +1,31 @@
+1. Начинать изучать hotkeys https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+2. Пройти на gizful 5 тестов
+3. Еще про файнал https://vertex-academy.com/tutorials/ru/modifikator-final/
+4. Cтатика https://vertex-academy.com/tutorials/ru/modifikator-static-v-java/
+   https://stackoverflow.com/questions/1415955/private-final-static-attribute-vs-private-final-attribute
+5. Почитать https://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+6. Так же рекомендую ознакомится с Google Java Style Guide. Мы будем его придерживатся: https://google.github.io/styleguide/javaguide.html
+7. Перегрузка методо http://pro-java.ru/java-dlya-nachinayushhix/perezagruzka-metodov-klassa-v-java/
+8. Шилд Глава 6.Введение в классы Глава  7. Подробное рассмотрение классов и методов  прочитать
+9. JUnit:  Блинов ст.751 - 766
+10. Рекомендую ознакомится с форматом XML: https://www.w3schools.com/xml/default.asp
+11. Вопросы на собеседование https://jsehelper.blogspot.com/2016/01/blog-post_59.html
+    Тема ООП и JAVA CORE (первые 7 вопросов).
+
+
+Практика:
+
+Создать класс(ы), спецификации которого (ых) приведены ниже. Определить конструкторы
+и методы setТип(), getТип(), toString(). Определить дополнительнометоды в классе,
+создающем массив объектов. Задать критерий выбора данных
+и вывести эти данные на консоль. В каждом классе, обладающем информацией,
+должно быть объявлено несколько конструкторов.
+
+Car: id, Марка, Модель, Год выпуска, Цвет, Цена, Регистрационный номер.
+Создать массив объектов. Вывести:
+a) список автомобилей заданной марки;
+b) список автомобилей заданной модели, которые эксплуатируются боль-
+ше n лет;
+c) список автомобилей заданного года выпуска, цена которых больше ука-
+занной.
+
